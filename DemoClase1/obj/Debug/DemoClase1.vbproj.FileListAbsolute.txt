@@ -1,0 +1,11 @@
+c:\users\usuario\documents\visual studio 2013\Projects\DemoClase1\DemoClase1\bin\Debug\DemoClase1.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\DemoClase1\DemoClase1\obj\Debug\DemoClase1.Form1.resources
+c:\users\usuario\documents\visual studio 2013\Projects\DemoClase1\DemoClase1\obj\Debug\DemoClase1.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\DemoClase1\DemoClase1\obj\Debug\DemoClase1.vbproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\DemoClase1\DemoClase1\bin\Debug\DemoClase1.exe
+c:\users\usuario\documents\visual studio 2013\Projects\DemoClase1\DemoClase1\bin\Debug\DemoClase1.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\DemoClase1\DemoClase1\bin\Debug\DemoClase1.xml
+c:\users\usuario\documents\visual studio 2013\Projects\DemoClase1\DemoClase1\obj\Debug\DemoClase1.exe
+c:\users\usuario\documents\visual studio 2013\Projects\DemoClase1\DemoClase1\obj\Debug\DemoClase1.xml
+c:\users\usuario\documents\visual studio 2013\Projects\DemoClase1\DemoClase1\obj\Debug\DemoClase1.pdb
+C:\Users\Usuario\documents\visual studio 2013\Projects\DemoClase1\DemoClase1\obj\Debug\DemoClase1.vbprojResolveAssemblyReference.cache
